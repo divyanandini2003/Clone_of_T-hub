@@ -1,0 +1,354 @@
+.c1{
+	background-color: lavender;
+	
+	padding-bottom: 80px;
+}
+.r1{
+	background-color: white;
+	height:45px;
+	margin-top:30px;
+}
+.m1 button{
+	height: 35px;
+	width: 90px;
+	background-color: lightgreen;
+	color: white;
+	border:lightgreen;
+	margin-top: 5px;
+	border-radius: 5px;
+	margin-left: -10px;
+}
+.m2 button{
+	height: 35px;
+	width: 90px;
+	background-color:#9BE2FF;
+	color: white;
+	border:#9BE2FF;
+	margin-top: 5px;
+	border-radius: 5px;
+	margin-left: -45px;
+}
+.m3 button{
+	height: 35px;
+	width: 90px;
+	background-color:#9BE2FF;
+	color: white;
+	border:#9BE2FF;
+	margin-top: 5px;
+	border-radius: 5px;
+	margin-left: -80px;
+}
+.m4 button{
+	height: 35px;
+	width: 90px;
+	background-color:#9BE2FF;
+	color: white;
+	border:#9BE2FF;
+	margin-top: 5px;
+	border-radius: 5px;
+	margin-left: -114px;
+}
+
+.m5 button{
+	height: 35px;
+	width: 90px;
+	background-color:red;
+	color: white;
+	border:red;
+	margin-top: 5px;
+	border-radius: 5px;
+	margin-left: -148px;
+}
+.n1{
+	background-color: white;
+	height: 560px;
+	width: 350px;
+	margin: 20px 0px 0px 70px;
+
+	/*margin-left: 20px;*/
+}
+.n3{
+	background-color: white;
+	height: 320px;
+	width: 730px;
+	margin: 20px 0px 0px 25px;
+}
+.n4{
+	background-color: white;
+	height: 350px;
+	width: 730px;
+	margin: 20px 0px 0px 25px;
+}
+.n3 input{
+	margin:20px 0px 0px 0px;
+	width:100%;
+	padding:4px;
+	text-transform: capitalize;
+	border-radius: 5px ;
+	border:2px solid lightgrey;
+}
+.n3 h4{
+	margin:28px 0px 0px 0px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 16px
+
+}
+.n3 h3{
+	margin:12px 0px 0px 0px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 16px
+}
+.n3 h5{
+	margin:12px 0px 0px 0px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 16px
+
+}
+.n3 h6{
+	margin:12px 0px 0px 0px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 16px
+
+}
+.n3 h2{
+	margin:12px 0px 0px 0px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 16px
+
+}
+.n3 button{
+	background-color: blue;
+	color: white;
+	border:blue;
+	padding:8px 15px 5px 15px;
+	margin:15px 0px 0px 0px;
+	font-size: 13px;
+	border-radius: 3px;
+}
+.na1 img{
+	height:85px;
+	width:90px;
+	border-radius:50%;
+	padding :2PX;
+	border:4px solid #0047AB;
+	margin: 20px 0px 0px 115px;
+
+}
+.na2 h2{
+	font-size: 25px;
+	margin: 20px 0px 0px 105px;
+}
+.na3{
+	color: grey;
+	margin:7px 0px 0px 80px;
+}
+.na4{
+	color: grey;
+	margin: 7px 0px 0px 60px;
+}
+.follow{
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+	border:blue;
+	margin:20px 0px 0px 80px;
+	padding:10px 18px 10px 18px;
+}
+
+.msg{
+	border:2px solid blue;
+	color: blue;
+	background-color: white;
+	margin: 20px 0px 0px 0px;
+	padding:8px 18px 8px 18px;
+	border-radius:5px;
+}
+.na5 hr{
+	width:90%;
+	height:2px;
+	border-width:0;
+	color:lightgray;
+	background-color:lightgrey;
+}
+.na6{
+	margin-top: -10px;
+	margin-left: 18px;
+}
+.na6 text{
+    margin-left: 13px;
+}
+.na6 span{
+	margin-left: 50px;
+	color: grey;
+}
+.na7{
+	margin-top: -10px;
+	margin-left: 18px;
+}
+.na7 text{
+    margin-left: 10px;
+}
+.na7 span{
+	margin-left: 130px;
+	color: grey;
+}
+.na8{
+	margin-top: -15px;
+	margin-left: 18px;
+}
+.na8 text{
+    margin-left: 10px;
+}
+.na8 span{
+	margin-left: 115px;
+	color: grey;
+
+}
+.na8 i{
+	color:skyblue;
+	font-size: 20px;
+
+}
+.na7 i{
+	
+	font-size: 20px;
+
+}
+.na6 i{
+	
+	font-size: 20px;
+
+}
+.na9{
+	margin-top: -15px;
+	margin-left: 18px;
+}
+.na9 text{
+    margin-left: 10px;
+}
+.na9 span{
+	margin-left: 130px;
+	color: grey;
+
+}
+.na9 i{
+	color:red;
+	font-size: 20px;
+
+}
+.na10{
+	margin-top: -15px;
+	margin-left: 18px;
+}
+.na10 text{
+    margin-left: 10px;
+}
+.na10 span{
+	margin-left: 115px;
+	color: grey;
+
+}
+.na10 i{
+	color:blue;
+	font-size: 20px;
+
+}
+.nb1 h4{
+	margin:25px 0px 0px 40px;
+}
+.nb2 h5{
+	margin:20px 0px 0px -40px;
+}
+
+/*.nb2 progress{
+	width:113%;
+	margin:10px 0px 0px -40px;
+	height:8px;
+}*/
+.nb2 progress {
+   width: 113%;
+   height :6px;
+   margin:10px 0px 0px -40px;
+   border: 0px solid lightgray;
+   border-radius:5px;
+   /*border-top-left-radius: 5px;*/
+}
+.nb2 progress::-webkit-progress-bar {
+   background-color: lightgray;
+}
+.nb2 progress::-webkit-progress-value {
+   background-color: blue;
+}
+
+.nb3 h5{
+	margin:20px 0px 0px -40px;
+}
+.nb3 progress {
+   width: 113%;
+   height :6px;
+   margin:10px 0px 0px -40px;
+   border: 0px solid lightgray;
+   border-radius:5px;
+}
+.nb3 progress::-webkit-progress-bar {
+   background-color: lightgray;
+}
+.nb3 progress::-webkit-progress-value {
+   background-color: red;
+}
+
+.nb4 h5{
+	margin:20px 0px 0px -40px;
+}
+.nb4 progress {
+   width: 113%;
+   height : 6px;
+   margin:10px 0px 0px -40px;
+   border: 0px solid lightgray;
+   border-radius:5px;
+}
+.nb4 progress::-webkit-progress-bar {
+   background-color: lightgray;
+}
+.nb4 progress::-webkit-progress-value {
+   background-color:green;
+}
+
+.nb5 h5{
+	margin:20px 0px 0px -40px;
+}
+.nb5 progress {
+   width: 113%;
+   height : 6px;
+   margin:10px 0px 0px -40px;
+   border: 0px solid lightgray;
+   border-radius:5px;
+}
+.nb5 progress::-webkit-progress-bar {
+   background-color: lightgray;
+}
+.nb5 progress::-webkit-progress-value {
+   background-color:yellow;
+}
+
+.nb6 h5{
+	margin:20px 0px 0px -40px;
+}
+.nb6 progress {
+   width: 113%;
+   height :6px;
+   margin:10px 0px 0px -40px;
+   border: 0px solid lightgray;
+   border-radius:5px;
+}
+.nb6 progress::-webkit-progress-bar {
+   background-color: lightgray;
+}
+.nb6 progress::-webkit-progress-value {
+   background-color:#69B0CD;
+}

@@ -1,0 +1,27 @@
+.container{
+	width: 4	JKiu SZ TXCN 0%;
+	margin :10px 10px;
+}
+.carousel{
+	border:2px solid red;
+	/*height: 400px;*/
+	/*position: relative;*/
+	
+}
+.slider{
+	height: 100%;
+	display: flex;
+	width: 400%;
+	border:2px solid green;
+	
+}
+.slider section{
+	flex-basis: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+img{
+	width:100%;
+}

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>task</title>
+	<style>
+		
+		nav ul li{
+			float: left;
+			list-style: none;
+			margin:0px 50px 0px 0px;
+		}
+		.home1{
+			position: fixed;
+			background-color: #F9F6EE;
+			margin:-20px 0px 0px 0px;
+			width:100%;
+		}
+		.home2{
+			margin:0px 0px 0px -40px;
+		}
+
+		pre{
+			margin-left: 230px;
+		}
+		.pretag{
+			background-color:#E5E4E2; 
+			padding-bottom: 10px;
+			padding-top: 10px;
+
+		}
+		table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table.main{
+ 	width: 800px;
+ 	height: 200px;
+ 	}
+ 	.page{
+ 		padding-top: 20px;
+ 		margin-left: 1200px;
+ 	}
+ 	.s2{
+ 		margin-left: 12px;
+ 	}
+ 	.s3{
+ 		margin-left: 30px;
+ 	}
+ 	.s4{
+ 		margin-left: 70px;
+ 		height: 200px;
+ 	}
+ 	.s5{
+ 		width: 170px;
+ 		margin-left: 70px;
+
+ 	}
+ 	.epam{
+ 		background-color: lightgrey;
+ 		padding-bottom: 30px;
+ 		padding-top: 30px;
+
+ 	}
+	</style>
+</head>
+<body>
+	
+<!-- navbar page-->
+
+<div id="home">
+<h1>HTML elements</h1>
+<div class="home1">
+<hr>
+
+<nav>
+	<ul>
+		<li><a href="#home" class="home2">Home</a></li>
+		<li><a href="#header">Headers</a></li>
+		<li><a href="#table">Table</a></li>
+		<li><a href="#list">List</a></li>
+		<li><a href="#textformat">Textformats</a></li>
+		<li><a href="#blockquotes">Blockqoutes</a></li><br>
+	</ul>
+</nav>
+
+<hr>
+</div>
+</div>
+<br><br>
+<!-- navvbar page ends -->
+
+<!-- header page -->
+<div id="header">
+	<br>
+    <p>Headings should be used to group related paragraphs and content together while clearly describing the sections. A good heading will provide an indication of the content. Avoid using jargon or “insider” acronyms in headings.Headings should be used to group related paragraphs and content together while clearly describing the sections. A good heading will provide an indication of the content. Avoid using jargon or “insider” acronyms in headings.</p><br><br>
+    <h2>Header2</h2>
+    <h3>Header3</h3>
+    <h4>Header4</h4>
+    <h5>Header5</h5>
+    <h6>Header6</h6>
+    <hr>
+
+    <p>Headings should be <a href="">organized</a> according to their rank in <strong>numeric order</strong>. The most important heading has the highest rank header 1 or  in code.  The lowest ranked heading is header 6 or  in code. There should only be one Header 1 per page, with all less important headings H<sub>2</sub>O nested logically <u>underline</u> underneath it. If they are out of order, it is confusing to those using a 5<sup>2</sup> = 25 screen reader. It is also an accessibility violation, which hurts search engine page, document, and site rankings.Headings should be organized according to their rank in numeric order. The most important heading has the <i>highest rank header</i> 1 or  in code.  The lowest ranked heading is header 6 or  in code. There should only be one Header 1 per page, with all less important headings nested logically underneath it. If they are out of order, it is confusing to those using a screen reader. It is also an accessibility violation, which hurts search engine page, document, and site rankings <b>quis tellus</b>.</p>
+
+<p>Headings HTML should be CSS organized according to their rank in numeric order. The most important heading has the highest rank header 1 or  in code.  The lowest ranked heading is header 6 or  in code. There should only be one Header 1 per page, with all less important headings nested logically underneath it. <mark>If they are out </mark>of order, it is confusing to those using a screen reader. It is also an accessibility violation, which hurts search engine page, document, and site rankings.Headings should be organized according to their rank in numeric COPY order. The most <del>important heading </del>has the highest rank header 1 or  in code.</p>
+<hr>
+</div>
+<!-- header page ends -->
+
+<!-- table page -->
+<div id="table">
+
+	<h1>Table</h1>
+
+	<table class="main">
+		<thead>
+		</thead>
+		<tbody>
+			<tr>
+				<td>header</td>
+				<td>header</td>
+				<td>header</td>
+			</tr>
+			<tr>
+				<td>header</td>
+				<td>header</td>
+				<td>header</td>
+			</tr>
+			<tr>
+				<td>header</td>
+				<td>header</td>
+				<td>header</td>
+			</tr>
+			<tr>
+				<td>header</td>
+				<td>header</td>
+				<td>header</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<hr>
+<!-- table page ends -->
+
+<!-- list page -->
+<div id="list">
+	
+	<h1>Unordered List</h1>
+	<ul>
+		<li>List item 1</li>
+		<li>List item 2</li>
+		<ul>
+			<li>some nested list item1</li>
+		</ul>
+		<li>List item 3</li>
+
+	</ul>
+
+	<h1>Ordered List</h1>
+	<ol>
+		<li>List item 1</li>
+		<li>List item 2</li>
+		<ol type="A">
+			<li>some nested list item 1</li>
+		</ol>
+		<li>List item 3</li>
+		
+	</ol>
+
+	<h1>Definition List</h1>
+	<dl>
+		<dt><b>defines terms 1</b></dt>
+		<dd>description1</dd>
+		<dt><b>defines terms2</b></dt>
+		<dd>description2</dd>
+		<dt><b>HTML</b></dt>
+		<dd>marekup language</dd>
+	</dl>
+
+	Details <select>
+		<option>HTML</option>
+		<option>HTML</option>
+		<option>HTML</option>
+	</select>
+
+<hr>
+</div>
+<!-- list page ends -->
+
+<!-- text formats -->
+
+<div id="textformat">
+	
+	<h1>Text formats</h1>
+	<head><p><h2><b>Article Text</b></h2></p></head>
+	<body><p><h3><b>Article Title</b></h3></p><p><small>Article description</small></p></body>
+	
+
+
+	<h1>preformated Text</h1>
+
+<div class="pretag">
+<pre>
+    Text
+in a pre element
+     is displayed in a fixed-width
+font, and it preserves
+both 
+spaces and
+    line breaks
+</pre>
+</div>
+<h1>code</h1>
+<div class="pretag">
+	<pre >
+		<code>
+
+	.wrapper{
+	display:flex;
+	vertical-align:middle;
+	justify-content:center;
+
+	}
+</code>
+	</pre>
+	</div>
+
+
+</div>
+<!-- textformat page ends -->
+<!-- bloclquotes starts -->
+<div id="blockquotes">
+	<h1>Blockquotes</h1>
+	<p>Here is a quote from WWF's website:</p>
+
+<blockquote><i>
+For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.<br><a href="https://www.w3schools.com/tags/tag_blockquote.asp" style="color: red">blockquotes</a> .
+</i></blockquote>
+</div>
+<hr>
+<!-- blockpage ends -->
+<!-- formpage starts -->
+<div class="page">
+	First name:<input type="text"  class="s1"><br><br>
+	Surname:<input type="text" class="s2"><br><br>
+	Email:<input type="email" class="s3"><br><br>
+	<textarea class="s4"></textarea><br><br>
+	<button class="s5">submit</button>
+</div>
+<hr>
+<div class="epam">
+	<center><h5>@ Copyright epam systems</h5></center>
+	
+</div>
+</body>
+</html>

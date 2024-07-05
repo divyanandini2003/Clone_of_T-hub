@@ -1,0 +1,72 @@
+.f p{
+	margin-left:20px;
+	font-size:10px;
+}
+.f img{
+	width:500px;
+	height:350px;
+	margin-top:150px;
+}
+.s{
+	margin-top:150px;
+}
+.job{
+	width:515px;
+	border:1px solid lightgrey;
+	border-radius:5px;
+	height:35px;
+	color:grey;
+}
+.s button{
+	width:555px;
+	text-align:center;
+}
+.facebook{
+	padding:10px;
+	background-color:#4267b2;
+	border:1px solid #4267b2;
+	border-radius:5px;
+}
+.twitter{
+	padding:10px;
+	background-color:#21afde;
+	border:1px solid #21afde;
+	border-radius:5px;
+}
+.facebook i{
+	color:white;
+	background-color:#4267b2;
+}
+.twitter i{
+	color:white;
+	background-color:#21afde;
+}
+.facebook a{
+	color:white;
+	text-decoration:none;
+}
+.twitter a{
+	color:white;
+	text-decoration:none;
+}
+.login a{
+	text-decoration:none;
+}
+.register a{
+	text-decoration:none;
+}
+.s hr{
+	width:100%;
+}
+.or{
+	background:#fff;
+	width:30px;
+	margin:-30px auto 10px;
+}
+.create button{
+	color:white;
+	background-color:blue;
+	border:1px solid blue;
+	border-radius:5px;
+	height:40px;
+}

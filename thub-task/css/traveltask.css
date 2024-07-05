@@ -1,0 +1,433 @@
+.s1 img{
+	height:600px ;
+	width:833px ;
+	margin:186px 0px 0px -50px;
+
+
+}
+.s2 h1 {
+	font-size: 80px;
+	font-weight: bold;
+	color: orange;
+	margin:200px 0px 0px -50px;
+}
+.s2 p{
+	margin:0px 0px 0px 150px; 
+}
+.s2 button{
+    background-color: #77aaf6;
+    color: white;
+   border-radius: 20px;
+   border:1px solid #77aaf6; 
+   margin:0px 0px 0px 350px; 
+   padding-top:10px;
+   padding-bottom:10px;
+   padding-left:20px;
+   padding-right:20px;
+}
+.s3{
+	background-color:#77aaf6;
+	padding-bottom: 40px;
+
+}
+.s4 h1{
+	font-size: 60px;
+	margin-left: 595px;
+	margin-top: 60px;
+	color: white;
+}
+.s5 p{
+	font-size: 25px;
+	color: white;
+	margin:0px 0px 0px 680px;
+}
+.s6 i{
+	background-color: white;
+	margin:30px 0px 10px 20px;
+	padding: 15px;
+	color: #9fcdfa;
+	font-size: 40px;
+	border-radius:50px;
+}
+.s6 h4 {
+	margin:20px 0px -5px -3px ;
+	font-size:20px;
+}
+
+.s6{
+	background-color:skyblue ;
+	border-radius: 15px;
+	padding-bottom: 30px; 
+
+}
+.s7{
+	margin-left: 25px;
+}
+.s10{
+	margin-top: 40px;
+}
+.s8{
+	background-color: white;
+}
+.s8 i{
+	background-color:skyblue;
+	color:white;
+}
+.s11{
+	padding-top:100px; 
+	padding-bottom: 40px;
+}
+.b2{
+	font-size: 40px;
+}
+.b3{
+	color: #77aaf6;
+}
+.b4 {
+    background-color: #77aaf6;
+    color: white;
+   border-radius: 20px;
+   border:1px solid #77aaf6; 
+   margin:20px 0px 0px 0px; 
+   padding-top:10px;
+   padding-bottom:10px;
+   padding-left:20px;
+   padding-right:20px;
+}
+.b5{
+	color: grey;
+	font-size: 25px;
+}
+.b6{
+	color: black;
+	font-size: 25px;
+}
+.b7{
+	background-color:  #77aaf6;
+	border-radius: 100px;
+	height: 100px;
+	width: 100px;
+	border: none;
+	/*opacity:0.5;*/
+		
+}
+.s11b img{
+	width: 550px;
+	height: 350px;
+	margin: 10px 0px 0px 20px;
+}
+.s11b {
+	font-size: 18px;
+	color: grey;
+	margin: 0px 0px 0px 50px;	
+}
+.s12{
+	background-color: #77aaf6;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.s12 img{
+
+	height: 450px;
+	width: 600px;
+}
+.s12a{
+	color: white;
+	font-size: 25px;
+	margin-left: 270px;
+	margin-top: 20px;
+}
+.s12b{
+	color: white;
+	font-size: 18px;
+	margin-left: 120px;
+}
+.s12c{
+	color: white;
+	font-size: 18px;
+	margin-left: 310px;
+}
+.s12d{
+	color: white;
+	font-size: 18px;
+	margin-left: 346px;
+}
+.s12e{
+	color: white;
+	margin-left: 346px;
+}
+.s12 u{
+	color:white;
+}
+.s12f{
+	color: white;
+	font-size: 50px;
+	margin-left: 250px;
+	margin-top: 40px;
+}
+.s12g{
+	color: white;
+	font-size: 50px;
+	margin-left: 200px;
+}
+.s13{
+	padding-top: 80px;
+	padding-bottom: 80px; 
+}
+.s13a{
+	font-size:40px;
+	color:  #77aaf6;
+}
+.s13b{
+	color: black;
+	margin-top:40px;
+}
+.phone i{
+	color: white;
+	border-radius:30px;
+	font-size:35px;
+	padding:15px;
+	background-color:#77aaf6;
+}
+.t4 img{
+	width: 650px;
+	height: 400px;
+}
+.s13 span {
+	color:#77aaf6;
+	font-size: 28px; 
+}
+.s15{
+	background-color:#77aaf6; 
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.s15a{
+	color: white;
+	font-size: 30px;
+	margin: 20px 0px 0px 170px;
+}
+.s15b{
+	color: white;
+	font-size: 18px;
+	margin: 10px 0px 0px 200px;
+}
+.s16{
+	margin:20px 0px 0px 150px; 
+}
+.s16a{
+   background-color: white;
+   border-radius: 20px;
+   border:none;
+   padding:0px 15px 0px 15px;
+	margin:10px 10px 0px 0px;
+	font-size: 18px;
+	height: 30px;
+
+}
+.s16b{
+	background-color: white;
+   border-radius: 20px;
+   border:none;
+   padding:0px 15px 0px 15px;
+	margin:10px 10px 0px 0px;
+	font-size: 18px;
+	height: 30px;
+
+}
+.s16 button{
+	background-color: orange;
+	color: white;
+   border-radius: 20px;
+   border:none;
+   padding:0px 15px 0px 15px;
+	margin:10px 10px 0px 0px;
+	font-size: 18px;
+	height: 30px;
+
+}
+.s17{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.s17a img{
+	height: 350px;
+	width: 650px;
+	margin: 30px 0px 0px 200px;
+}
+.s17b h4{
+	color: black;
+	font-size: 22px;
+	margin: 50px 0px 0px 400px;
+}
+.s17c h1{
+	color: black;
+	font-size: 45px;
+	margin: 30px 0px 0px 180px;
+}
+.s17d p{
+	color:grey;
+	font-size: 15px;
+	margin: 40px 0px 0px 80px;
+}
+.s17e{
+	 background-color: #77aaf6;
+    color: white;
+   border-radius: 20px;
+   border:1px solid #77aaf6; 
+   margin:40px 0px 40px 420px; 
+   padding-top:10px;
+   padding-bottom:10px;
+   padding-left:20px;
+   padding-right:20px;
+}
+.s17f i{
+	margin: 50px 0px 0px 420px;
+}
+.s18{
+	background-color:  #77aaf6;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.s18a h1{
+	color: white;
+	font-size: 55px;
+	margin: 20px 0px 0px 180px;
+}
+.s18b{
+	background-color: white;
+	height: 450px;
+	width: 250px;
+	margin: 50px 0px 0px 90px;
+	border-radius: 20px;
+	border:none ;
+}
+.s18b p{
+    
+    margin: 100px 0px 0px 15px;
+    font-family: italic;
+}
+.s18b h1{
+	margin: 80px 0px 0px 15px;
+	font-size: 55px;
+	color: orange;
+}
+.s18c{
+	background-color: white;
+	height: 350px;
+	width: 250px;
+	margin: 150px 0px 0px 20px;
+	border-radius: 20px;
+	border:none ;
+}
+.s18c p{
+    
+    margin: 80px 0px 0px 15px;
+    font-family: italic;
+}
+.s18c h1{
+	margin: 40px 0px 0px 15px;
+	font-size: 55px;
+	color:  #77aaf6;
+}
+.s18d{
+	background-color: white;
+	height: 250px;
+	width: 250px;
+	margin: 250px 0px 0px 20px;
+	border-radius: 20px;
+	border:none ;
+}
+.s18d p{
+    
+    margin: 30px 0px 0px 15px;
+    font-family: italic;
+}
+.s18d h1{
+	margin: 15px 0px 0px 15px;
+	font-size: 55px;
+	color: green;
+}
+.s18e{
+	margin-left:50px; 
+}
+.s19{
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+.s19a h1{
+	color: black;
+	font-size: 50px;
+	margin-left: 100px;
+
+}
+.s19b img{
+	border-radius: 20px;
+	margin:10px 0px 0px 80px;
+	width: 130px;
+	height: 130px;
+}
+.s19c p{
+	color: grey;
+	margin: 18px 0px 0px 80px;
+}
+.s19d{
+	margin: 30px 0px 0px 20px;
+}
+.s19e i{
+	color:orange;
+	border-radius:30px;
+	font-size:35px;
+	padding:15px;
+	margin-left: 16px;
+}
+.s19f h4{
+	color: black;
+	margin: 10px 0px 0px -65px;
+	font-size: 15px;
+
+}
+.s19f p{
+	color: grey;
+	margin: 10px 0px 0px -65px;
+}
+.s20a h4{
+	margin: 38px 0px 0px 120px;
+	color: grey;
+	font-size: 30px;
+}
+.s20b{
+	margin:30px 0px 0px 110px;
+	color: grey; 
+}
+.s20c{
+	margin: 30px 0px 0px 120px;
+	border:none;
+
+
+}
+.s20c button{
+	color:white;
+	background-color: orange;
+	border-color:orange
+
+}
+.s20d{
+	margin: 150px 0px 0px 20px;
+}
+.s20e i{
+	color:orange;
+	border-radius:30px;
+	font-size:25px;
+	padding:15px;
+	margin-left: 50px;
+}
+.s20f h4{
+	color: black;
+	margin: 20px 0px 0px -40px;
+	font-size: 15px;
+} 
+.s20f p{
+	color: grey;
+	margin: -10px 0px 0px -40px;
+}
